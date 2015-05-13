@@ -1,0 +1,21 @@
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.exe.config
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.exe
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.pdb
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.Form1.resources
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.Properties.Resources.resources
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.csproj.GenerateResource.Cache
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.exe
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.pdb
+c:\users\javed\documents\visual studio 2013\Projects\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.csprojResolveAssemblyReference.cache
+C:\Users\JAVED\Desktop\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.exe.config
+C:\Users\JAVED\Desktop\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.exe
+C:\Users\JAVED\Desktop\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.exe.config
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.exe
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.exe
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\bin\Debug\ReClient_ServerWinforms.pdb
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.csprojResolveAssemblyReference.cache
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.Form1.resources
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.Properties.Resources.resources
+D:\Javed\PROGRAMMING BOOKS\C#\Ver1\ReClient_ServerWinforms\ReClient_ServerWinforms\obj\Debug\ReClient_ServerWinforms.csproj.GenerateResource.Cache
